@@ -1,0 +1,14 @@
+---
+layout: default
+title: recess lights
+modal-id: 4
+#date: 2014-07-15
+img: recess.jpg
+alt: image-alt
+#project-date: April 2014
+#client: Start Bootstrap
+category: Living room recess lighting
+description: Looking for an inexpensive way to modernize your home? Recessed lighting offers the perfect blend of form and function to give your home a fresh new look. Well-chosen, carefully placed lights can highlight a room’s best features, improve lighting in areas that are poorly lit, and offer a decorative element to your home. Your local M&T electric can repair existing accent lights or install new ones for you. We can help you select the right mix of recessed lighting and other lighting to modernize the look of your home. We have all your home's lighting design, installation, and maintenance needs covered. Contact M&T for fast and courteous service.
+
+
+---

@@ -1,0 +1,12 @@
+---
+layout: default
+title: under-cabinet lights
+modal-id: 6
+date: 2014-07-15
+img: Undercabinet.jpg
+alt: image-alt
+#project-date: April 2014
+#client: Start Bootstrap
+category: Kitchen cabinet lighting
+description: Adding lights under your cabinets helps you to see the items on your countertops with clarity and ease.  Cabinet lighting is a great way to highlight the colors in your countertops and cabinets.  Lighting can also be added below your bottom cabinets to illuminate the walkway at night.
+---
