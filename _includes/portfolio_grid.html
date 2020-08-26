@@ -1,4 +1,3 @@
-
     <!-- Portfolio Grid Section -->
     <section id="portfolio">
         <div class="container portfolio-flex-grid">
@@ -10,6 +9,7 @@
             </div>
             <div class="portfolio-flex-row">
                 {% for post in site.posts %}
+                  {% if post.label == "portfolio" %}
                     <div class="portfolio-flex-item portfolio-item">
                         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
@@ -20,6 +20,7 @@
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
                         </a>
                     </div>
+                  {% endif %}
                 {% endfor %}
             </div>
         </div>
