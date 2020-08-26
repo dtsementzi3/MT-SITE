@@ -5,8 +5,12 @@ title: Custom lighting
 date: 2014-07-16
 img: gym.jpg
 alt: image-alt
+label: portfolio
 #project-date: April 2014
 #client: Start Bootstrap
 category: commercial speciality lighting
-description: M&T electric can provide energy efficient, customized lighting for small businesses in the Atlanta general area. We know it’s important that your lighting functions well and looks good without huge operating costs.
 ---
+
+M&T electric can provide energy efficient, customized lighting for small
+businesses in the Atlanta general area. We know it’s important that your
+lighting functions well and looks good without huge operating costs.
