@@ -1,10 +1,11 @@
 # Site settings
 title: M&T Electric LLC
 email: mporter.electric@gmail.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
+#url: https://github.com/jeromelachaud/freelancer-theme
+description: "M&T is a local electrical company located in Roswell, serving proudly the Atlanta and surrounding metro area for all types of Residential electrical needs. Call us today for a free estimate: (770) 807-2764"
+keywords: "electrical repair, electrician, TV mount"
 skills: "Michael Porter - Professional Electrician"
+tells: "Call us today for a free estimate: 770-807-2764"
 meta_author: Despina Tsementzi
 
 # Google webmaster tools
@@ -34,21 +35,21 @@ color:
 footer:
   copyright: Michael Porter
   location: Location
-  social: Around the Web
-  credits: Credits
+  #social: Around the Web
+  credits: contact
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+#social:
+#  - title: twitter
+#    url: http://twitter.com/jekyllrb
+#  - title: facebook
+#    url:
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket
+#    url: http://bitbucket.org/jekyll
+#  - title: github
+#    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
@@ -56,7 +57,7 @@ address:
   - line: Serving General Atlanta area
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Call us today at <br/><a href="tel:7708072764">+1(770)807-2764</a> for a free quote'
 
 # Build settings
 markdown: kramdown
