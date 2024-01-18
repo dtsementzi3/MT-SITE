@@ -2,7 +2,7 @@
 title: M&T Electric LLC
 email: mporter.electric@gmail.com
 #url: https://github.com/jeromelachaud/freelancer-theme
-description: "M&T is a local electrical company located in Roswell, serving proudly the Atlanta and surrounding metro area for all types of Residential electrical needs. Call us today for a free estimate: (770) 807-2764"
+description: "M&T is a local electrical company located in Atlanta, serving proudly the Atlanta and surrounding metro area for all types of Residential electrical needs. Call us today for a free estimate: (770) 807-2764"
 keywords: "electrical repair, electrician, TV mount"
 skills: "Michael Porter - Professional Electrician"
 tells: "Call us today for a free estimate: 770-807-2764"
@@ -53,7 +53,7 @@ footer:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Located in Roswell
+  - line: Located in Atlanta
   - line: Serving General Atlanta area
 
 # Credits content
